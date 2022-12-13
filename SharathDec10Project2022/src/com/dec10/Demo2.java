@@ -5,5 +5,8 @@ public class Demo2 {
 	
 	  System.out.println("this is first...");
 	  System.out.println("this is second....");
+	  
+	  System.out.println("this is third line...");
+	  System.out.println("this is fourth line...");
 }
 }
